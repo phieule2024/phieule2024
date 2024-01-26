@@ -1,11 +1,13 @@
 # Hi there, I'm Kyle! 👋
 
+
 <div style="display: flex; align-items: center;">
   <span>I'm a Fullstack developer based in Vietnam</span>
   <img valign=bottom src="https://raw.githubusercontent.com/phieule2024/phieule2024/5b25793793916496c3a5cb913232f1a8d2389d98/vn-icon.svg" alt="flag" height="21px">
 </div>
 
 ## 🔧 Technologies Tools & Goal
+
 
 <table>
   <tr>
@@ -56,6 +58,7 @@
 </table>
 
 ## Just for fun
+
 
 <img valign=bottom src="https://raw.githubusercontent.com/phieule2024/phieule2024/main/x.gif" alt="flag" height="369px">
 
