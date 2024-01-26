@@ -14,3 +14,33 @@
 | Java                   | CodeIgniter        |&nbsp;|
 | JavaScript             | Angular            |&nbsp;|
 | MySQL                  | React              |&nbsp;|
+
+
+<table>
+  <tr>
+    <th>Programming Languages</th>
+    <th>Tools & Frameworks</th>
+  </tr>
+  <tr>
+    <td rowspan="3">PHP</td>
+    <td>Laravel</td>
+  </tr>
+  <tr>
+    <td>CodeIgniter</td>
+  </tr>
+  <tr>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>Angular</td>
+  </tr>
+  <tr>
+    <td>JavaScript</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>MySQL</td>
+    <td></td>
+  </tr>
+</table>
