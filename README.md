@@ -1,5 +1,4 @@
 <img valign=bottom src="https://raw.githubusercontent.com/phieule2024/phieule2024/main/cat.png" alt="flag" height="105px">
-<br>
 
 # I'm Kyle! 👋
 
