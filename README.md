@@ -23,10 +23,6 @@
     <th></th>
   </tr>
   <tr>
-    <td rowspan="4"><img src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg" alt="kai" align="right"></td>
-    <td>Laravel</td>
-  </tr>
-  <tr>
     <td>CodeIgniter</td>
   </tr>
   <tr>
@@ -43,5 +39,9 @@
   <tr>
     <td>MySQL</td>
     <td></td>
+  </tr>
+  <tr>
+    <td rowspan="4"><img src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg" alt="kai" align="right"></td>
+    <td>Laravel</td>
   </tr>
 </table>
