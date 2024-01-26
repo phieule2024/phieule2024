@@ -7,7 +7,7 @@
 
 | Programming Languages | Tools & Frameworks  | <img src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg" alt="kai" align="right"> |
 | ---------------------- | ------------------ |------------------|
-| PHP                    | Laravel            |c|
-| Java                   | CodeIgniter        |c|
-| JavaScript             | Angular            |c|
-| MySQL                  | React              |c|
+| PHP                    | Laravel            |&nbsp;|
+| Java                   | CodeIgniter        |&nbsp;|
+| JavaScript             | Angular            |&nbsp;|
+| MySQL                  | React              |&nbsp;|
