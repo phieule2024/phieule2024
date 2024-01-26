@@ -6,23 +6,12 @@
 </div>
 
 ## 🔧 Technologies & Tools
-<div style="display: flex;">
-  <div align="left" style="width: 48%;">
-### Programming Languages
 
-- PHP
-- Java
-- JavaScript
-- MySQL
+| Programming Languages | Tools & Frameworks |
+| ---------------------- | ------------------ |
+| PHP                    | Laravel            |
+| Java                   | CodeIgniter        |
+| JavaScript             | Angular            |
+| MySQL                  | React              |
 
-### Tools & Frameworks
-
-- Laravel
-- CodeIgniter
-- Angular
-- React
-</div>
-<div align="right" style="width: 48%;">
- <img valign=bottom src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg" alt="kai">
-</div>
-</div>
+<div align="right"><img src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg" alt="kai"></div>
