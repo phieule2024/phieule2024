@@ -17,41 +17,40 @@
 
 
 <table>
+  <tr>
+    <th>Programming Languages</th>
+    <th>Tools & Frameworks</th>
+    <th></th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td rowspan="4"><img
+        src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg"
+        alt="kai"
+        align="right"
+      ></td>
+  </tr>
+  <tr>
+    <td rowspan="2">PHP</td>
+    <td>CodeIgniter</td>
+  </tr>
+  <tr>
+    <td>Laravel</td>
+  </tr>
+  <tr>
+    <td rowspan="3">JavaScript</td>
+    <td>Angular</td>
+  </tr>
+  <tr>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>Jquery</td>
+  </tr>
+  <tr>
+    <td rowspan="2">SQL</td>
+    <td>MySQL</td>
+  </tr>
+</table>
 
-    <tr>
-      <th>Programming Languages</th>
-      <th>Tools & Frameworks</th>
-      <th></th>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-      <td rowspan="4"><img
-          src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg"
-          alt="kai"
-          align="right"
-        ></td>
-    </tr>
-    <tr>
-      <td rowspan="2">PHP</td>
-      <td>CodeIgniter</td>
-    </tr>
-    <tr>
-      <td>Laravel</td>
-    </tr>
-    <tr>
-      <td rowspan="3">JavaScript</td>
-      <td>Angular</td>
-    </tr>
-    <tr>
-      <td>React</td>
-    </tr>
-    <tr>
-      <td>Jquery</td>
-    </tr>
-    <tr>
-      <td rowspan="2">SQL</td>
-      <td>MySQL</td>
-    </tr>
-
-  </table>
