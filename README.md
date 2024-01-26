@@ -55,5 +55,7 @@
   </tr>
 </table>
 
+## Just for fun
+
 <img valign=bottom src="https://raw.githubusercontent.com/phieule2024/phieule2024/main/x.gif" alt="flag" height="369px">
 
