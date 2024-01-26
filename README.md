@@ -17,7 +17,7 @@
   <tr>
     <td></td>
     <td></td>
-    <td rowspan="8"><img
+    <td rowspan="10"><img
         src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg"
         alt="kai"
         align="right"
