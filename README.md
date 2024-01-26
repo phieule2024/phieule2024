@@ -5,10 +5,18 @@
 
 ## 🔧 Technologies & Tools
 
-| Programming Languages | Tools & Frameworks | <img src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg" alt="kai" align="right"> |
-| ---------------------- | ------------------ |
-| PHP                    | Laravel            |
-| Java                   | CodeIgniter        |
-| JavaScript             | Angular            |
-| MySQL                  | React              |  
+| ### Programming Languages
+
+    - PHP
+    - Java
+    - JavaScript
+    - MySQL
+
+    ### Tools & Frameworks
+
+    - Laravel
+    - CodeIgniter
+    - Angular
+    - React | <img src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg" alt="kai" align="right"> |
+
 
