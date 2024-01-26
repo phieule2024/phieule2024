@@ -1,6 +1,6 @@
 # Hello, I'm Kyle! 👋
 
-I'm a Fullstack developer based in Vietnam <img src="vn_icon.svg" alt="flag">.
+I'm a Fullstack developer based in Vietnam <img src="/vn_icon.svg" alt="flag">.
 
 ## 🔧 Technologies & Tools
 
