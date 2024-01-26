@@ -6,7 +6,7 @@
 </div>
 
 ## 🔧 Technologies & Tools
-
+<div style="display: flex;">
 <div align="left" width="50%">
 ### Programming Languages
 
@@ -24,4 +24,5 @@
 </div>
 <div align="right" width="50%">
  <img valign=bottom src="https://raw.githubusercontent.com/phieule2024/phieule2024/0b4078771fab80afd0df4d4ed1d28eb90d597bde/kai.svg" alt="kai">
+</div>
 </div>
